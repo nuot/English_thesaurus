@@ -6,3 +6,5 @@ Part 1. app1.py -> Ask for a user input for an English word, return the definati
 2) if the word only existing in the format of title (ie. Tustin), the program will not change it into lower case and search for the word
 
 Part 2. Linked with MySQL database and pulling data from it.
+
+Last Edited by Nuo Tian on 3/10/2021
